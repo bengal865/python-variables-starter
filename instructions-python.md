@@ -1,7 +1,7 @@
 ﻿# Project Title
 
 ## Submitting Your Work
- - Save your files to a new GitHub repo named: 
+ - Save your files to a new GitHub repo named: ***repo-name***
  - Copy the web address (URL) that points to your repo and submit it on Google Classroom
 
 ## Overview
