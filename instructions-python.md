@@ -6,9 +6,7 @@
 
 ## Overview
 
-In this project, build a web page that:
-In this project, write a script that:
-
+Write a script/build a website that:
  - Spec 1
  - Spec 2
 
