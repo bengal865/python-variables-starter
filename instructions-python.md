@@ -6,7 +6,7 @@
 
 ## Overview
 
-Write a script/build a website that:
+Write a script that:
  - Spec 1
  - Spec 2
 
