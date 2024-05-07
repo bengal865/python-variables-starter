@@ -1,2 +1,2 @@
-# web-project-template
-Template files for a website project
+# Python Project Template
+Template files for your Python projects
