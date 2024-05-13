@@ -1,2 +1,2 @@
 # Python Project Template
-Template files for your Python projects
+Please read the markdown (.md) directions before you start writing code for your project.
