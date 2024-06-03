@@ -30,7 +30,7 @@ Write a script that shows you know how to work with:
    - Numeric Variables
    - String Variables
    - Boolean Variables
-- Under your **Numeric Variables** section:
+ - Under your **Numeric Variables** section:
    -   
 
 
