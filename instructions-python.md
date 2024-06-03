@@ -21,11 +21,11 @@ Write a script that shows you know how to work with:
 ## Directions
 
  - Add a comment block to the top of your script, like so:
-> ```python
-> # Mike Jenkins
-> # 03 SEP 20XX
-> # Python Variables
-> ```
+ ```python
+# Mike Jenkins
+# 03 SEP 20XX
+# Python Variables
+```
  - Use comments to divide your script into three sections
    - Numeric Variables
    - String Variables
