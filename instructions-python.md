@@ -26,7 +26,11 @@ Your finished project should look similar to this example:
 ## Directions
 
  - Add a comment block to the top of your script
-![A Python comment block](san-juan-mtns-nm.png "San Juan Mountains")
+> ```python
+> # Mike Jenkins
+> # 03 SEP 20XX
+> # Python Variables
+> ```
  - 
  - Step 2
 
