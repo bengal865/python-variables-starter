@@ -33,8 +33,8 @@ Your finished project should look similar to this example:
 > # Python Variables
 > ```
  - Use comments to divide your script into three sections
-  - Numeric Variables
-  - String Variables
-  - Boolean Variables
+ - Numeric Variables
+ - String Variables
+ - Boolean Variables
 
 
