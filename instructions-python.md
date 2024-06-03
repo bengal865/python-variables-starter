@@ -42,7 +42,7 @@ Write a script that shows you know how to work with:
   -  assign the value True (note the capitalization) to a variable named `is_student`
   -  depending on what grade you're in, assign the value True (or False) to a variable named `is_junior`
   -  depending on whether you know how to speak French or not, assign the value True or False to a variable `speaks_french`
--  At the bottom of your script, use multiple print statements and the Python ```f-string``` to display the values assigned to your numeric, string and Boolean variables
+-  At the bottom of your script, use multiple print statements and the Python *f-string* to display the values assigned to your numeric, string and Boolean variables
 -  Use a pair of **backtick characters** (located above the TAB key on your keyboard) to build your f-string
 
 > ```python
