@@ -31,6 +31,7 @@ Write a script that shows you know how to work with:
    - String Variables
    - Boolean Variables
 - Under **Numeric Variables**:
-  -  assign your age as an integer to a variable named ```age```
+  -  assign your age as an integer to a variable named `age`
+  -  assign as an integer the number of people in your immediate family to a variable named ```num_family_members```
 
 
