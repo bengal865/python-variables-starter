@@ -32,6 +32,15 @@ Write a script that shows you know how to work with:
    - Boolean Variables
 - Under **Numeric Variables**:
   -  assign your age as an integer to a variable named `age`
-  -  assign as an integer the number of people in your immediate family to a variable named ```num_family_members```
+  -  assign as an integer the number of people in your immediate family to a variable named `num_family_members`
+  -  assign as a float how much you earn per hour at your job; name the variable `hourly_wage`
+- Under **String Variables**:
+  -  assign your last name to a variable named `last_name`
+  -  assign the name of your sending school to a variable named `sending_school`
+  -  assign the name of one of your pets to a variable `my_pet`
+- Under **Boolean Variables**:
+  -  assign the value True (note the capitalization) to a variable named `is_student`
+  -  depending on what grade you're in, assign the value True (or False) to a variable named `is_junior`
+  -  depending on whether you know how to speak French or not, assign the value True or False to a variable `speaks_french`
 
 
