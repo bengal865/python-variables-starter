@@ -31,6 +31,6 @@ Write a script that shows you know how to work with:
    - String Variables
    - Boolean Variables
 - Under **Numeric Variables**:
-  -  fdgsdfgsdfg
+  -  assign your age as an integer to a variable named ```age```
 
 
