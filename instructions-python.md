@@ -26,11 +26,10 @@ Write a script that shows you know how to work with:
 # 03 SEP 20XX
 # Python Variables
 ```
- - Use comments to divide your script into three sections
+- Use comments to divide your script into three sections
    - Numeric Variables
    - String Variables
    - Boolean Variables
- - Under your **Numeric Variables** section:
-   -   
+- Testing
 
 
