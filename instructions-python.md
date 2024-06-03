@@ -1,14 +1,15 @@
-﻿# Python: Project Title
+﻿# Practice: Python Variables & Data Types 1
 
 ## Submitting Your Work
- - Save your files to a new GitHub repo named: ***repo-name***
+ - Save your files to a new GitHub repo named: ***variables-data-types1***
  - Submit on Google Classroom the web address (URL) that points to your repo 
 
 ## Overview
 
-Write a script that:
- - Spec 1
- - Spec 2
+Write a script that shows you know how to work with:
+ - string variables
+ - numeric variables (integers and floats)
+ - the Boolean data type in Python (True or False)
 
 ## Sample Output
 
@@ -18,12 +19,15 @@ Your finished project should look similar to this example:
 
 ## Helpful Resources
 
- - About [Python comments](https://www.w3schools.com/python/python_comments.asp)
- - Resource 2
+ - About [Python variables](https://www.w3schools.com/python/python_variables.asp)
+ - [How to name your Python variables](https://www.w3schools.com/python/python_variables_names.asp)
+ - [Using the print function to display the value assigned to a Python variable](https://www.w3schools.com/python/python_variables_output.asp)
  
 ## Directions
 
- - Step 1
+ - Add a comment block to the top of your script
+![A Python comment block](san-juan-mtns-nm.png "San Juan Mountains")
+ - 
  - Step 2
 
 
