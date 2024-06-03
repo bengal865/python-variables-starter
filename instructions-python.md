@@ -1,7 +1,7 @@
-﻿# Practice: Python Variables & Data Types 1
+﻿# Practice: Python Variables & Data Types 
 
 ## Submitting Your Work
- - Save your files to a new GitHub repo named: ***variables-data-types1***
+ - Save your files to a new GitHub repo named: ***variables-data-types-python***
  - Submit on Google Classroom the web address (URL) that points to your repo 
 
 ## Overview
