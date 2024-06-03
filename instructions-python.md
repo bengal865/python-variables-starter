@@ -11,12 +11,6 @@ Write a script that shows you know how to work with:
  - numeric variables (integers and floats)
  - the Boolean data type in Python (True or False)
 
-## Sample Output
-
-Your finished project should look similar to this example:
-
-![The San Juan Mountains in New Mexico](san-juan-mtns-nm.png "San Juan Mountains")
-
 ## Helpful Resources
 
  - About [Python variables](https://www.w3schools.com/python/python_variables.asp)
@@ -36,5 +30,7 @@ Your finished project should look similar to this example:
    - Numeric Variables
    - String Variables
    - Boolean Variables
+ - Under your **Numeric Variables** section:
+   -   
 
 
