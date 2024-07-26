@@ -16,7 +16,7 @@ Write a script that shows you know how to work with:
  - About [Python variables](https://www.w3schools.com/python/python_variables.asp)
  - [How to name your Python variables](https://www.w3schools.com/python/python_variables_names.asp)
  - [Using the print function to display the value assigned to a Python variable](https://www.w3schools.com/python/python_variables_output.asp)
- - [Adding comments to your Python script](https://www.w3schools.com/python/python_comments.asp)
+ - [Need to add comments to your Python script?]  See the three comments in the comment block below under the **Directions** heading (https://www.w3schools.com/python/python_comments.asp)
  
 ## Directions
 
